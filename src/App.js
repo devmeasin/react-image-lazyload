@@ -5,7 +5,7 @@ import { GirdLayout } from './components/GirdLayout';
 
 const url = 'https://api.unsplash.com/photos/'
 
-function App() {
+const App = () => {
 
   const [images, setImages] = useState([]);
   const [pageNumber, setPageNumber] = useState(1);
