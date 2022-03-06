@@ -3,7 +3,7 @@
 ### This Project Create Learning Purpose...
 
 
-<img src="/images/prev.gif" alt="Prev">
+<img src="public/images/prev.gif" alt="Prev">
 
 
 
